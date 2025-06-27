@@ -1,4 +1,4 @@
-# Auto Star Papers 📚⭐
+# Auto Star Papers in a Single CMD 📚⭐
 This tool reads a CSV file containing research papers and automatically stars their associated GitHub repositories on your GitHub account. It's perfect for:
 
 - Academic researchers who want to keep track of interesting papers
