@@ -1,9 +1,4 @@
 # Auto Star Papers 📚⭐
-
-Automatically star GitHub repositories from a CSV file containing research papers and their associated code repositories.
-
-## 🎯 What This Does
-
 This tool reads a CSV file containing research papers and automatically stars their associated GitHub repositories on your GitHub account. It's perfect for:
 
 - Academic researchers who want to keep track of interesting papers
@@ -20,7 +15,7 @@ This tool reads a CSV file containing research papers and automatically stars th
 > [!NOTE]
 > 1. This script is designed to be run on a local machine without cloning the repository.
 > 2. Runing with `python -c "curl -s URL"` is recommended, because it avoids the need to clone the repository and keep your token private :)
-> 3. ⚠️ We detach the paper source from this repository, and get the paper source from [dlxfox/read_papers](https://github.com/dlxfox/read_papers) repository, so you can also contribute to the paper list by opening a pull request to [dlxfox/read_papers](https://github.com/dlxfox/read_papers).
+> 3. ⚠️ We detach the paper source from this repository, and get the paper source from [dlxfox/read_papers](https://github.com/dlxfox/read_papers) repository, so you can contribute to the paper list by opening a pull request to [dlxfox/read_papers](https://github.com/dlxfox/read_papers).
 
 ### 1. Creating a personal access token (classic)
 Before running the script, you need to create a personal **access token (classic)** by navigating to [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new). Select scopes `repo` to star public and private repositories.
