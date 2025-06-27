@@ -13,7 +13,7 @@ This tool reads a CSV file containing research papers and automatically stars th
 ## 🚀 Quick Start
 
 > [!NOTE]
-> 1. This script is designed to be run on a local machine without cloning the repository.
+> 1. This script is designed to be run in distributed **without cloning the repository**.
 > 2. Runing with `python -c "curl -s URL"` is recommended, because it avoids the need to clone the repository and keep your token private :)
 > 3. ⚠️ We detach the paper source from this repository, and get the paper source from [dlxfox/read_papers](https://github.com/dlxfox/read_papers) repository, so you can contribute to the paper list by opening a pull request to [dlxfox/read_papers](https://github.com/dlxfox/read_papers).
 
