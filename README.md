@@ -25,6 +25,9 @@ This tool reads a CSV file containing research papers and automatically stars th
 ### 1. Creating a personal access token (classic)
 Before running the script, you need to create a personal **access token (classic)** by navigating to [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new). Select scopes `repo` to star public and private repositories.
 
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/5b9a7a89-3e72-4726-b58c-7f4a2fd6c833" />
+
+
 **⚠️ Important:** Keep your token secure and never commit it to version control!
 
 ### 2. Prepare Your CSV File
